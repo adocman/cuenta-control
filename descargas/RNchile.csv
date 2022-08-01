@@ -1,0 +1,16 @@
+screen_name,following,followed_by,usuario_objetivo
+RNchile,False,True,Liberales_Chile
+RNchile,False,False,PRChile
+RNchile,False,False,ChilePDGcl
+RNchile,False,False,la_convergencia
+RNchile,False,False,ComunesCL
+RNchile,True,False,PDC_Chile
+RNchile,False,False,FedRegionalista
+RNchile,False,False,RDemocratica
+RNchile,True,True,evopoli
+RNchile,False,True,PRadicalcl
+RNchile,False,True,PCdeChile
+RNchile,False,False,PSChile
+RNchile,False,False,PPD_Chile
+RNchile,True,True,udipopular
+RNchile,False,False,RNchile

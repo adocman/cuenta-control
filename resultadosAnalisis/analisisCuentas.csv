@@ -1,0 +1,16 @@
+Cuenta,ChilePDGcl,ComunesCL,evopoli,FedRegionalista,la_convergencia,Liberales_Chile,PCdeChile,PDC_Chile,PPD_Chile,PRadicalcl,PRChile,PSChile,RDemocratica,RNchile,udipopular
+ChilePDGcl,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
+ComunesCL,False,False,False,False,True,True,True,False,False,False,False,True,True,False,False
+evopoli,False,False,False,False,False,False,False,False,True,False,False,False,False,True,True
+FedRegionalista,False,False,False,False,True,True,True,False,True,False,False,False,True,False,False
+la_convergencia,False,True,False,False,False,True,True,True,True,True,False,True,True,False,False
+Liberales_Chile,False,True,True,False,True,False,False,False,True,True,False,True,True,True,True
+PCdeChile,False,True,False,True,True,False,False,True,True,True,False,True,True,True,True
+PDC_Chile,False,False,True,False,False,True,False,False,True,True,False,True,False,False,True
+PPD_Chile,False,True,True,False,True,True,True,True,False,True,False,True,True,False,False
+PRadicalcl,False,True,True,False,True,True,True,True,True,False,False,True,True,True,True
+PRChile,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+PSChile,False,True,False,False,False,True,True,True,True,True,False,False,True,False,False
+RDemocratica,False,True,False,False,True,False,True,False,True,False,False,False,False,False,False
+RNchile,False,False,True,False,False,False,False,True,False,False,False,False,False,False,True
+udipopular,False,False,True,False,False,False,False,False,False,False,False,False,False,True,False
